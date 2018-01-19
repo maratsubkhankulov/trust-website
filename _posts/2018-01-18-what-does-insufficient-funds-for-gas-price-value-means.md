@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What does the error "insufficient gas * price + value" means?"
+title: "What does the error 'insufficient gas * price + value' means?"
 ---
 
 The gas fee is paid for miners in the Ethereum network to process a transaction.
