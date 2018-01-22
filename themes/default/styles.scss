@@ -275,14 +275,17 @@ section.our-partners {
   text-align: center;
   width: 170px;
   margin: 10px;
+  background: none;
 }
 
 .view-button:hover,.view-button:visited {
   color: #ffffff;
-  opacity: 0.65;
+  background: rgba(255,255,255,0.1);
+  transition: all .2s ease;
 }
 
 .view-button:link {
+  color: #ffffff;
   text-decoration: none;
 }
 
