@@ -305,6 +305,15 @@ section.our-partners {
   color: #282828;
 }
 
+@media only screen and (max-width: 991px) {
+  .download-buttons {
+    margin-top: 40px;
+    margin-bottom: 45px;
+    display: flex;
+    text-align: center;
+  }
+}
+
 @media only screen and (max-width: 768px) {
   .feature-title {
     text-align: center;
@@ -332,9 +341,8 @@ section.our-partners {
   .download-buttons {
     margin-top: 40px;
     margin-bottom: 45px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
+    text-align: center;
   }
 
   .links {
