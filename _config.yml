@@ -18,7 +18,7 @@ permalink: /:title
 
 # Marketing
 marketing_header: # Optional
-marketing_desc: Trust - Secure wallet for Ethereum and ERC20 tokens.
+marketing_desc: Trust - Secure wallet for Ethereum, ERC20 and ERC223 tokens.
 
 # Social Links
 social-links:
