@@ -58,7 +58,7 @@ download_button_text_color: white; # Optional
 
 # Site Info - specific meta
 title: Trust - Ethereum Wallet # Optional - Enter your site title
-description: Trust - Secure wallet for Ethereum and ERC20 tokens. # Optional - Enter your site description
+description: Trust - Secure wallet for Ethereum, ERC20 and ERC223 tokens. # Optional - Enter your site description
 
 # Google Analytics
 google_analytics: UA-107603827-1 # Enter your tracking code (e.g. UA-2110908-2) to activate tracking
