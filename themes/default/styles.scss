@@ -213,20 +213,28 @@ img.centered.download-buttons-store {
 
 .feature-image {
   height: 80px;
-  opacity: 0.9;
   display: block;
   margin: auto;
+}
+
+.col-sm-6.assets-container {
+  padding: 30px;
+}
+
+.col-sm-4.assets-container {
+    padding: 50px;
+    margin-right: 120px;
 }
 
 h2.assets-title {
-    color: #555;
+  color: #555;
 }
 
 .assets-image {
-  height: 80px;
-  opacity: 0.9;
+  height: 160px;
   display: block;
-  margin: auto;
+  padding: 20px;
+  margin-left: -20px;
 }
 
 .feature-title {
