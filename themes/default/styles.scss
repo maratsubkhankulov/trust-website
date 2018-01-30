@@ -160,7 +160,6 @@ img.centered.download-buttons-store {
 .social-links {
   padding: 0;
   list-style: none;
-  display: flex;
   justify-content: center;
   align-items: center;
 }
@@ -217,13 +216,18 @@ img.centered.download-buttons-store {
   margin: auto;
 }
 
-.col-sm-6.assets-container {
-  padding: 30px;
+.col-6.col-md-4.assets-container {
+  padding: 50px;
 }
 
 .col-sm-4.assets-container {
-    padding: 50px;
-    margin-right: 120px;
+  padding: 50px;
+  margin-right: 120px;
+}
+
+.download-wrapper {
+  width: 100%;
+  text-align: center;
 }
 
 h2.assets-title {
