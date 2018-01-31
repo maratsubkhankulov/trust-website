@@ -23,12 +23,14 @@ marketing_desc: Trust - Secure wallet for Ethereum, ERC20 and ERC223 tokens.
 # Social Links
 social-links:
   github: TrustWallet
-  reddit: 
-  facebook: trustwalletapp
-  twitter: trustwalletapp
-  email: support@trustwalletapp.com
   discord: kUXyamd
+  reddit: trustapp
+  medium: trustwallet
   youtube: channel/UCrYnRK55nYUDd6flEZ2Kf6g/videos
+  twitter: trustwalletapp
+  facebook: trustwalletapp
+  email: support@trustwalletapp.com
+
 
 # Enable/Disable Features & Page Elements
 enable:
