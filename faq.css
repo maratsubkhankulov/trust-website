@@ -134,7 +134,7 @@ pre code {
 .post-title {
     color: #353535;
     font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
-    font-size: 3rem;
+    font-size: 1.9rem;
     margin: 1rem 0;
     text-align: center
 }
@@ -513,11 +513,10 @@ footer span {
 }
 
 .pagination {
-    border-top: 0.5px solid #e5e5e5;
-    font-family: Palatino, "Palatino LT STD", "Palatino Linotype", "Book Antiqua", "Georgia", serif;
-    padding-top: 2rem;
+    padding-top: 4rem;
     position: relative;
-    text-align: center
+    text-align: center;
+    width: 100%;
 }
 
 .pagination span {

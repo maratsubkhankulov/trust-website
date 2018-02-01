@@ -10,15 +10,13 @@ layout: faq-default
 
   {{ content }}
 
-</div>
-
-<!-- <div class="pagination">
-  {% if page.next.url %}
-    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow" style="left: 0;">&#8592;</a>
-  {% endif %}
+<div class="pagination">
   {% if page.previous.url %}
     <a href="{{ page.previous.url | prepend: site.baseurl }}" class="right arrow" style="right: 0;">&#8594;</a>
   {% endif %}
+  {% if page.next.url %}
+    <a href="{{ page.next.url | prepend: site.baseurl }}" class="left arrow" style="left: 0;">&#8592;</a>
+  {% endif %}
+</div>
 
-  <a href="#" class="top">Top</a>
-</div> -->
+</div>
