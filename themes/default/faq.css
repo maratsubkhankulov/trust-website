@@ -129,7 +129,8 @@ pre code {
 .post-title {
     color: #353535;
     font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
-    font-size: 2rem;
+    font-size: 1.9rem;
+    font-weight: 700;
     margin: 1rem 0;
     text-align: center
 }
@@ -556,6 +557,11 @@ footer span {
     right: 0
 }
 
+h2.faq-title {
+    color: #555;
+    font-size: 30px;
+}
+
 .catalogue-item {
     border-bottom: 1px solid #e5e5e5;
     color: #555;
@@ -582,7 +588,7 @@ footer span {
     color: #353535;
     display: block;
     font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
-    font-size: 2rem;
+    font-size: 1.6rem;
     font-weight: 700;
     margin: .5rem 0
 }
@@ -604,6 +610,14 @@ footer span {
 
 
 @media screen and (max-width: 400px) {
+    h2.faq-title {
+        font-size: 24px;
+    }
+
+    .catalogue-title {
+        font-size: 1.4rem;
+    }
+
     .post-title {
         color: #353535;
         font-family: "Helvetica Neue", "Segoe UI", Helvetica, Arial, sans-serif;
