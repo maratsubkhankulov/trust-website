@@ -3,4 +3,7 @@ layout: post
 title: "Which coins are supported?"
 ---
 
-Ethereum, Ethereum Classic, POA Network.
+The coins supported are as follows:
+
++ Ethereum
++ Ethereum Classic
