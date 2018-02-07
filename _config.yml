@@ -11,7 +11,6 @@ app:
   android_id: com.wallet.crypto.trustapp
   apk_link: v1.4.21
   icon: images/app-icon-512.png
-  screenshot: images/app-screen-640x1136.png
 
 # Permalinks
 permalink: /:title
@@ -39,11 +38,6 @@ enable:
 
 #
 # Device
-#
-# Available devices:
-# * iphone-se-silver-vertical
-# * iphone-se-space-gray-vertical
-# * ipod-touch-blue-vertical
 #
 device: iphone-se-silver-vertical # REQUIRED
 
